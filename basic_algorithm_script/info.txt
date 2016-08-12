@@ -1,0 +1,5 @@
+1.reverse a string
+2.Factorialize a Number
+3.Check for Palindromes
+4.Find the Longest Word in a String
+5.Title Case a Sentence
