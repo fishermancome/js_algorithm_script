@@ -1,0 +1,6 @@
+1.Sum All Numbers in a Range
+2.Diff Two Arrays
+3.Roman Numeral Converter
+4.Wherefore art thou
+5.Search and Replace
+6.Pig Latin
