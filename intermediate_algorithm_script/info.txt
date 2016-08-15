@@ -4,3 +4,8 @@
 4.Wherefore art thou
 5.Search and Replace
 6.Pig Latin
+7.DNA Pairing
+8.Missing letters
+9.Boo who
+10.Sorted Union
+11.Convert HTML Entities
