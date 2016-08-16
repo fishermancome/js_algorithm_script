@@ -9,3 +9,8 @@
 9.Boo who
 10.Sorted Union
 11.Convert HTML Entities
+12.Spinal Tap Case
+13.Sum All Odd Fibonacci Numbers 
+14.Sum All Primes
+15.Smallest Common Multiple
+16.Finders Keepers
