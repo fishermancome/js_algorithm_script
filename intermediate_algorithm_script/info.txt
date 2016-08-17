@@ -14,3 +14,7 @@
 14.Sum All Primes
 15.Smallest Common Multiple
 16.Finders Keepers
+17.Drop it
+18.Steamroller
+19.Binary Agents
+20.Everything Be True
